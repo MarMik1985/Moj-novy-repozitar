@@ -4,4 +4,8 @@ Zoznam mien:
 3. Peter
 4. Erika
 5. Laura
+<<<<<<< HEAD
 6. Eugen
+=======
+6. Malamutttt
+>>>>>>> 56567e8511ef2dd1c70e2413984223ed7bcb8b9b
