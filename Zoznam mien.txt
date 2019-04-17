@@ -3,3 +3,5 @@ Zoznam mien:
 2. Anna
 3. Peter
 4. Erika
+5. Laura
+6. Eugen
