@@ -3,8 +3,5 @@ Zoznam automobilov:
 2. Mercedes
 3. Volvo
 4. Peugeot
-<<<<<<< HEAD
 5. Škoda
-=======
-5. Ignác
->>>>>>> 1d51aced11738117ee499026bcf31763649bdc95
+
