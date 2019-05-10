@@ -4,4 +4,6 @@ Zoznam automobilov:
 3. Volvo
 4. Peugeot
 5. Škoda
-
+6. Volkswagen
+7. Tatra
+8. Trabant
