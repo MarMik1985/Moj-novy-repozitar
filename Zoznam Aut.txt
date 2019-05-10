@@ -11,5 +11,6 @@ Zoznam automobilov:
 10. Ford
 5. Iveco
 6. Maserati
-
+17. Opel
+18. Daihatsu
 
