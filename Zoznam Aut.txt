@@ -13,4 +13,6 @@ Zoznam automobilov:
 6. Maserati
 17. Opel
 18. Daihatsu
+19. Porsche
+20. Hyundai
 
