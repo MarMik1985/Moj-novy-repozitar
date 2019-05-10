@@ -8,3 +8,4 @@ Zoznam mien:
 11. Jožo
 9. Milan
 15. Bartolomej
+6. Ján
