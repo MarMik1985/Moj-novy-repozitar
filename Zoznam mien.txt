@@ -12,4 +12,5 @@ Zoznam mien:
 5. Iveta
 165. Ignac
 175. Magdalena
+176: Zdeno
 
