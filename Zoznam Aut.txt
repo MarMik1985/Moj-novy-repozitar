@@ -10,6 +10,6 @@ Zoznam automobilov:
 9. Honda
 10. Ford
 5. Iveco
-
+6. Maserati
 
 
