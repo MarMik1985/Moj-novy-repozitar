@@ -7,3 +7,4 @@ Zoznam automobilov:
 6. Volkswagen
 7. Tatra
 8. Trabant
+9. Honda
