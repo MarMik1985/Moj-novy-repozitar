@@ -13,4 +13,6 @@ Zoznam mien:
 165. Ignac
 175. Magdalena
 176: Zdeno
+182. Andrej
+183. Andrea
 

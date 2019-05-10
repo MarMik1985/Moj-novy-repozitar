@@ -15,4 +15,6 @@ Zoznam automobilov:
 18. Daihatsu
 19. Porsche
 20. Hyundai
+21. Man
+22. Ferrari
 
