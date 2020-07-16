@@ -17,4 +17,5 @@ Zoznam automobilov:
 20. Hyundai
 21. Man
 22. Ferrari
+23. Subaru
 
